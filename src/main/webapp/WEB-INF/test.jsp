@@ -7,13 +7,13 @@
 <script type="text/javascript" src="../static/js/app.js"></script>
 
 
-    <%--Have to switch the index controller to test if want to run this simple jasmine test--%>
-    <script type="text/javascript">
-        var hello = "Hello, ";
-        var world = "World!";
+<%--Have to switch the index controller to test if want to run this simple jasmine test--%>
+<script type="text/javascript">
+    var hello = "Hello, ";
+    var world = "World!";
 
 
-        it('should equal Hello, World!', function() {
-            expect(hello + world).toBe("Hello, World!");
-        });
-    </script>
+    it('should equal Hello, World!', function() {
+        expect(hello + world).toBe("Hello, World!");
+    });
+</script>
