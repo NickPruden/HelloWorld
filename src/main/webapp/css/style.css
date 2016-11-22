@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    font-family: "century gothic", verdana;
+    font-weight: bold;
+    text-align: center;
+    font-size: 5em;
+    padding-top: 2em;
+}
+
+h1,h2 {
+    color: white;
+}
